@@ -1,0 +1,27 @@
+language: fr-FR
+theme:
+  switch: true
+  default: auto
+assets:
+  internal_provider: local
+  third_party_provider: unpkg
+user:
+  name: Martial Maillot
+  first_name: .
+  last_name: Racomach
+  email: martial@racomach.fr
+  domain: https://www.racomach.fr
+  avatar: /img/avatar.jpg
+  describe: Développeur
+  ruleText: Je suis dev
+sidebar:
+  typedTextPrefix: Je suis
+  typedText: [ 'développeur' ]
+  social:
+    - name: github
+      icon: fab fa-github
+      url: https://www/github.com/m-maillot
+footer:
+  powered:
+    enable: false
+    custom_text: 🇫🇷
